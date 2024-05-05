@@ -1,0 +1,8 @@
+Project Name            Grocery Store Management System
+
+Project Members :
+		Name				AG#
+		Fizza Tehreem			2022-ag-8639
+		Ayesha Niamat			2022-ag-8577
+		Javeria Ishaq			2022-ag-8640
+		Laiba Ismael			2022-ag-8641
